@@ -1,4 +1,4 @@
-package com.example.aceleracion.aceleracion;
+package com.alkemy.pre.aceleracion;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
